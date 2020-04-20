@@ -25,8 +25,13 @@ You can find them in the example.
 [Full update history list](https://github.com/sohobloo/react-native-modal-dropdown/wiki/Update-History)
 
 ## Installation
+Open your `package.json` file and this in `dependencies` section
+
 ```sh
-npm i react-native-modal-dropdown -save
+"dependencies": {
+  //...
+  "react-native-modal-dropdown": "git+https://github.com/BuildU/react-native-modal-dropdown.git"
+}
 ```
 
 ## Usage
